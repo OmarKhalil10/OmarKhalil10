@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Omar Khalil! 👋</h1>
+<h1 align="left">Hi, I'm Omar Khalil! 👋</h1>
 <h3 align="center">A Passionate TensorFlow Developer ⚡ and a Computer Engineering student at Modern Academy for Engineering and Technology 🎓. I'm really interested in Machine Learning Technologies and Full Stack Development 🚀. I'm also TensorFlow Certified Developer and Microsoft Azure Certified in AI 🤖. In addition to that, I have been passionate about coding and learning new things 😃</h3>
 
 - 🔭 I’m currently learning **Machine Learning & Neural Networks**
