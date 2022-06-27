@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **omar.khalil498@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/cftPZ](shorturl.at/cftPZ)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
