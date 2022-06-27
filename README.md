@@ -21,7 +21,7 @@
 <a href="https://instagram.com/omar__khalil10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omar__khalil10" height="30" width="40" /></a>
 </p>
 
-**Languages and Tools:**  
+<h3 align="left">Languages and Tools:</h3>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
