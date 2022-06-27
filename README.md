@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **TensorFlow, GCP and Azure!**
 
-- 📫 How to reach me **omar.khalil498@gmail.com**
+- 📫 Contact me on **omar.khalil498@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
