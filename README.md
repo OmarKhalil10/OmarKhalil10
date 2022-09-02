@@ -6,9 +6,9 @@
 [![Instagram: omar__khalil10](https://img.shields.io/badge/-omar__khalil10-bc2a8d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/omar__khalil10/)](https://www.instagram.com/omar__khalil10/)
 [![Twitter: OmarKhalil0](https://img.shields.io/twitter/follow/OmarKhalil0?style=social)](https://twitter.com/OmarKhalil0)
 
-## A little More about me:
-
 <h4 align="left">A Passionate TensorFlow Developer ⚡ and a Computer Engineering student at Modern Academy for Engineering and Technology 🎓, Google Developer Groups Cloud Egypt Team Member, Google Developer Student Club Community Leader, Google Africa Developer Scholarship GCP Program Mentor, and Google Scholarship Program Team Leader. I'm really interested in Machine Learning Technologies and Full Stack Development 🚀. I'm also TensorFlow Certified Developer and 2x Microsoft Azure Certified in AI 🤖. In addition to that, I have been passionate about coding and learning new things 😃</h4>
+
+## A little More about me:
 
 - 🔭 I’m currently learning **Machine Learning & Neural Networks**
 
