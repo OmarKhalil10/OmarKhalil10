@@ -1,6 +1,6 @@
 ## Hi, I'm Omar Khalil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-[![Linkedin omarkhalil0](https://img.shields.io/linkedIn/followers/omarkhalil0?label=follow&style=social)](https://www.linkedin.com/in/omarkhalil0)
+[![Linkedin: omarkhalil0](https://img.shields.io/badge/-omarkhalil0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarkhalil0/)](https://www.linkedin.com/in/omarkhalil0/)
 [![GitHub OmarKhalil10](https://img.shields.io/github/followers/OmarKhalil10?label=follow&style=social)](https://github.com/OmarKhalil10)
 [![Facebook: OmarKhalil498](https://img.shields.io/badge/-OmarKhalil498-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/OmarKhalil498/)](https://www.facebook.com/OmarKhalil498/)
 [![Instagram: omar__khalil10](https://img.shields.io/badge/-omar__khalil10-bc2a8d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/omar__khalil10/)](https://www.instagram.com/omar__khalil10/)
