@@ -6,7 +6,7 @@
 [![GitHub OmarKhalil10](https://img.shields.io/github/followers/OmarKhalil10?label=follow&style=social)](https://github.com/OmarKhalil10)
 [![Facebook: OmarKhalil498](https://img.shields.io/badge/-OmarKhalil498-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/OmarKhalil498/)](https://www.facebook.com/OmarKhalil498/)
 
-[![Instagram: omar__khalil10](https://img.shields.io/badge/-omar__khalil10-#bc2a8d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/omar__khalil10/)](https://www.instagram.com/omar__khalil10/)
+[![Instagram: omar__khalil10](https://img.shields.io/badge/-omar__khalil10-bc2a8d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/omar__khalil10/)](https://www.instagram.com/omar__khalil10/)
 
 
 <h4 align="left">A Passionate TensorFlow Developer ⚡ and a Computer Engineering student at Modern Academy for Engineering and Technology 🎓, Google Developer Groups Cloud Egypt Team Member, Google Developer Student Club Community Leader, Google Africa Developer Scholarship GCP Program Mentor, and Google Scholarship Program Team Leader. I'm really interested in Machine Learning Technologies and Full Stack Development 🚀. I'm also TensorFlow Certified Developer and 2x Microsoft Azure Certified in AI 🤖. In addition to that, I have been passionate about coding and learning new things 😃</h4>
