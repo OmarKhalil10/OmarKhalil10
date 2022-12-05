@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [http://omarkhalil.herokuapp.com](http://omarkhalil.herokuapp.com)
 
-- 💬 Ask me about **TensorFlow, GCP and Azure!**
+- 💬 Ask me about **TensorFlow, GCP, AWS and Azure!**
 
 - 📫 Contact me on **omar.khalil498@gmail.com**
 
