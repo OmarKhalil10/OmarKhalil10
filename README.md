@@ -8,6 +8,7 @@
 
 <h4 align="left">Hi there, I'm Omar Khalil, a recent computer engineering graduate from the esteemed Modern Academy for Engineering and Technology. 🎓 My journey has been quite an adventure, with diverse roles that have uniquely contributed to my growth and expertise.
 
+
 I've had the honor of taking on leadership responsibilities as a community leader at the distinguished Google Developer Student Club (GDSC), actively participated in the Google Developer Groups (GDG) Cloud Egypt team, and had the privilege of mentoring within the esteemed Google Africa Developer Scholarship (GCP) program. 🚀
 
 What gets me excited professionally are the realms of cloud development, cloud DevOps, and the intricate landscape of machine learning technologies. My certifications as a TensorFlow Certified Developer, a Microsoft Azure Certified Developer, and an AWS Certified Developer & DevOps Engineer are badges of pride. 🏆
