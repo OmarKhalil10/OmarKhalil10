@@ -19,9 +19,9 @@ Beyond all this, my passion for coding and insatiable thirst for acquiring new k
 
 ## A little More about me:
 
-- 🔭 I’m currently learning **Machine Learning & Neural Networks**
+- 🔭 I’m currently learning **Cloud DevOps on GCP & AWS**
 
-- 👯 I’m looking to collaborate on **AI & Web-Development projects**
+- 👯 I’m looking to collaborate on **Cloud Development & AI Projects**
 
 - 👨‍💻 All of my projects are available at [http://omarkhalil.herokuapp.com](http://omarkhalil.herokuapp.com)
 
