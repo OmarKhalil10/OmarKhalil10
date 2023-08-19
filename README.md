@@ -7,7 +7,7 @@
 [![Twitter: OmarKhalil0](https://img.shields.io/twitter/follow/OmarKhalil0?style=social)](https://twitter.com/OmarKhalil0)
 
 <h4 align="left">Hi there, I'm Omar Khalil, a recent computer engineering graduate from the esteemed Modern Academy for Engineering and Technology. 🎓 My journey has been quite an adventure, with diverse roles that have uniquely contributed to my growth and expertise.
-<br><br>
+
   
 I've had the honor of taking on leadership responsibilities as a community leader at the distinguished Google Developer Student Club (GDSC), actively participated in the Google Developer Groups (GDG) Cloud Egypt team, and had the privilege of mentoring within the esteemed Google Africa Developer Scholarship (GCP) program. 🚀
 
