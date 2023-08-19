@@ -6,7 +6,15 @@
 [![Instagram: omar__khalil10](https://img.shields.io/badge/-omar__khalil10-bc2a8d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/omar__khalil10/)](https://www.instagram.com/omar__khalil10/)
 [![Twitter: OmarKhalil0](https://img.shields.io/twitter/follow/OmarKhalil0?style=social)](https://twitter.com/OmarKhalil0)
 
-<h4 align="left">A Passionate TensorFlow Developer ⚡ and a Computer Engineering student at Modern Academy for Engineering and Technology 🎓 Google Developer Student Club Community Leader, Google Africa Developer Scholarship (GCP) Program Mentor, and Google MENA Scholarship Program team leader. I'm really interested in Machine Learning Technologies and Full Stack Development 🚀. I'm interested in cloud development, cloud DevOps, and machine learning technologies. I'm also a TensorFlow Certified Developer, Microsoft Azure Certified Developer, AWS Certified Developer & DevOps Engineer.🤖 In addition to that, I have been passionate about coding and learning new things.😃</h4>
+<h4 align="left">Hi there, I'm Omar Khalil, a recent computer engineering graduate from the esteemed Modern Academy for Engineering and Technology. 🎓 My journey has been quite an adventure, with diverse roles that have uniquely contributed to my growth and expertise.
+
+I've had the honor of taking on leadership responsibilities as a community leader at the distinguished Google Developer Student Club (GDSC), actively participated in the Google Developer Groups (GDG) Cloud Egypt team, and had the privilege of mentoring within the esteemed Google Africa Developer Scholarship (GCP) program. 🚀
+
+What gets me excited professionally are the realms of cloud development, cloud DevOps, and the intricate landscape of machine learning technologies. My certifications as a TensorFlow Certified Developer, a Microsoft Azure Certified Developer, and an AWS Certified Developer & DevOps Engineer are badges of pride. 🏆
+
+In addition, I'm honored to serve as both a Google Cloud expert trainer and a Program Manager at BambooGeeks, roles that have significantly enriched my experience and expertise in cloud technologies. 💻
+
+Beyond all this, my passion for coding and insatiable thirst for acquiring new knowledge is my steadfast companions, consistently propelling me toward new horizons. 🌟 I'm genuinely thrilled about the array of opportunities that lie ahead, fueled by my unwavering commitment to continuous advancement and discovery. 🚀</h4>
 
 ## A little More about me:
 
@@ -16,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [http://omarkhalil.herokuapp.com](http://omarkhalil.herokuapp.com)
 
-- 💬 Ask me about **TensorFlow, GCP, AWS and Azure!**
+- 💬 Ask me about **TensorFlow, GCP, AWS, and Azure!**
 
 - 📫 Contact me on **omar.khalil498@gmail.com**
 
