@@ -56,7 +56,7 @@
 
 <p align="center">
   <code><img height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud"></code>
-  <code><img height="40" src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" alt="Amazon Web Services"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon Web Services"></code>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure"></code>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker"></code>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes"></code>
