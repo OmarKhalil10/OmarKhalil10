@@ -55,17 +55,18 @@
 <h2 align="center">Languages and Tools:</h2>
 
 <p align="center">
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" alt="Amazon Web Services"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch"></code>
 </p>
 
 <p align="center">
