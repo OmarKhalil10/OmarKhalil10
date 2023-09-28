@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<h3 align="center">GCP Expert Trainer | AWS Cloud Developer | DevOps Engineer | Machine Learning Enthusiast</h3>
+<h3 align="center">GCP Expert Trainer | AWS Cloud Developer | Azure Administrator | DevOps Engineer | Machine Learning Enthusiast</h3>
 
 <p align="center">
   Hi there, I'm Omar Khalil, a recent computer engineering graduate from the esteemed Modern Academy for Engineering and Technology. 🎓 My journey has been quite an adventure, with diverse roles that have uniquely contributed to my growth and expertise.
