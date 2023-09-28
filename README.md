@@ -64,6 +64,8 @@
   <code><img height="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform"></code>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins"></code>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="Travis CI"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="Circle CI"></code>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python"></code>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow"></code>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch"></code>
