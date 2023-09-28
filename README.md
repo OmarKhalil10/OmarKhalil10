@@ -46,7 +46,7 @@
 
 <h2 align="center">A little More about me:</h2>
 
-- 🔭 I’m currently learning **Cloud DevOps on GCP & AWS**
+- 🔭 I’m currently learning **Cloud DevOps on GCP, AWS & Azure**
 - 👯 I’m looking to collaborate on **Cloud Development & AI Projects**
 - 👨‍💻 All of my projects are available at [http://omarkhalil.herokuapp.com](http://omarkhalil.herokuapp.com)
 - 💬 Ask me about **TensorFlow, GCP, AWS, and Azure!**
